@@ -8,6 +8,13 @@ JS app
 * A marcação e estilização da página é feita com **HTML**e **CSS**;
 * Caso você queira visualizar a aplicação na sua máquina, basta fazer o download do arquivo zip, extrair no local de sua preferência e abrir o arquivo index.html;
 
-## Como funciona
+## Dinamica da aplicação
 * Ao abrir o arquivo index.html, é exibido o que seria a pagina inicial nele você vai visualizar informações da série como sinopse, anos de exibição e autores
+
 ![](ex1.jpg)
+
+* Abaixo algumas informações dos personagens que podem ser escolhidos por um select
+
+![](ex2.jpg)
+
+![](ex3.jpg)
