@@ -1,6 +1,4 @@
 # Futurama
-JS app
-
 ## Sobre
 
 * Essa é uma aplicação que faz uso de uma api disponível em: https://sampleapis.com/api-list/futurama;
