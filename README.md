@@ -31,6 +31,6 @@ JS app
 
 ![](ex6.jpg)
 
-* A tela ao final do quiz fica ao critério do usuário faze-lo novamente ou retornar a página inicial:
+* A tela ao final do quiz, fica ao critério do usuário faze-lo novamente ou retornar a página inicial:
 
 ![](ex7.jpg)
